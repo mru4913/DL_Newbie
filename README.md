@@ -4,7 +4,7 @@
 
 
 - [ ] [Visual Transformer (ViT)]()
-- [ ] [Contrastive Language-Image Pre-trainin (CLIP)]()
+- [ ] [Contrastive Language-Image Pre-train (CLIP)]()
 - [ ] [stable diffusion (SD)]()
-- [ ] [GPT-like Larget Lanuage Model (LLM)](./llm)
+- [ ] [GPT-like Large Language Model (LLM)](./llm)
 
